@@ -41,7 +41,7 @@
 
 ---
 
-### **2. Payment Integration (NAVI and Scalop)**
+### **2. Payment Integration (NAVI and Scallop)**
 
 #### **A. NAVI Payment Integration**
 - **NAVI** will serve as a payment gateway, enabling **Sui**-based transactions.
