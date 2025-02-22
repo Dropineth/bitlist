@@ -1,5 +1,3 @@
----
-
 # **Bitlist - Local Life Yellow Pages MVP on Sui Blockchain (Payment Focus)**
 
 ## **Overview**
