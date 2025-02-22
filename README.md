@@ -48,8 +48,8 @@
 - **Payment Flow**: Businesses can list products/services with a fixed price. When a customer makes a purchase, the system handles the transaction using NAVI's liquidity system.
 
 #### **B. Scallop Payment Integration**
-- **Scalop** will allow businesses and customers to handle payments and refunds in a **peer-to-peer** manner, without intermediaries.
-- **Payment Flow**: Customers can pay for services/products using **Sui** or **other supported tokens** through **Scalop's** peer-to-peer money market.
+- **Scallop** will allow businesses and customers to handle payments and refunds in a **peer-to-peer** manner, without intermediaries.
+- **Payment Flow**: Customers can pay for services/products using **Sui** or **other supported tokens** through **Scallop's** peer-to-peer money market.
 
 ---
 
